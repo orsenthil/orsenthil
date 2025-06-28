@@ -5,4 +5,5 @@
 
 ## Presentations
 
-* [PyBay 2024](https://github.com/orsenthil/orsenthil/blob/main/presentations/PyBay2024.pdf) 
+* [PyBay 2024](https://github.com/orsenthil/orsenthil/blob/main/presentations/PyBay2024.pdf)
+* [Recorded presentations on Youtube](https://www.youtube.com/watch?v=-5zDYCcSXdU&list=PLC83D65E86B78048F)
