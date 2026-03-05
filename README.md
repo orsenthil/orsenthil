@@ -1,9 +1,9 @@
-## Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=orsenthil&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=orsenthil&show_icons=true&layout=compact)
+> What is beauty, or goodness, or art, or love, or God? We're forever teetering on the brink of the unknowable, and trying to understand what can't be understood. It's what makes us human."
+>  Issac Asimov, The Caves of Steel
+> -
 
-## Presentations
-
-* [PyBay 2024](https://github.com/orsenthil/orsenthil/blob/main/presentations/PyBay2024.pdf)
-* [Recorded presentations on Youtube](https://www.youtube.com/watch?v=-5zDYCcSXdU&list=PLC83D65E86B78048F)
+* My Projects - https://projects.learntosolveit.com
+* Blog - https://senthil.learntosolveit.com
+* X - https://x.com/phoe6
+* Social -  https://social.learntosolveit.com/@senthil 
